@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ikera\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ikera\\.nuget\\packages"
+    ]
+  }
+}
